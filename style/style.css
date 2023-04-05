@@ -40,7 +40,7 @@ body {
     margin: -50px auto -30px auto;
     border: 3px solid hsl(0, 0%, 100%);
 }
-.picture img{
+.picture {
     display: block;
     height: auto;
     width: 100%;
